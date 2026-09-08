@@ -18,13 +18,6 @@ Instead of just using high-level APIs, this repository focuses on **building cor
 
 This project is a direct reflection of my learning path, inspired by the approach of educators like **Rohit Ghumare** and similar "AI Engineering from Scratch" courses. The goal is to document the journey, solidify my own knowledge, and create a valuable resource for others on a similar path.
 
-### What You'll Find Here:
-
-| Directory | Description |
-|-----------|-------------|
-| `Math_Fundamentals/` | Code and notes on essential mathematical concepts (Linear Algebra, Calculus, etc.) |
-| `tests/` | Test scripts and experiments applying learned concepts |
-| `*.ts` / `*.py` | Core implementations of AI components from scratch |
 
 ---
 

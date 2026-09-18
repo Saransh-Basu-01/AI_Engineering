@@ -314,8 +314,6 @@ if __name__ == "__main__":
         ax.legend()
 
         plt.tight_layout()
-        plt.savefig("probability_distributions.png", dpi=150)
-        print("  Saved: probability_distributions.png")
         plt.close()
 
     except ImportError:
